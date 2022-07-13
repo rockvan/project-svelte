@@ -5,7 +5,7 @@
 
 <header>
   <nav>
-    <Title title="Ninja Gaming Guides" />
+    <Title title="Rockvan Gaming Guides" />
     <div class="links">
       <a href="/">Home</a>
       <a href="/about">About</a>
@@ -18,7 +18,7 @@
   <slot />
 </main>
 <footer>
-  <p>Copyright 2022 Ninja Gaming Guides</p>
+  <p>Copyright 2022 Rockvan Gaming Guides</p>
 </footer>
 
 <style>
